@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-exercize",
+  "version": "1.0.0",
+  "private": true,
+  "description": "掘金小册[《babel 插件通关秘籍》](https://sourl.co/ijmTn3)的案例代码：",
+  "main": "index.js",
+  "devDependencies": {},
+  "workspaces": [
+    "exercize-*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuarkGluonPlasma/babel-plugin-exercize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuarkGluonPlasma/babel-plugin-exercize/issues"
+  },
+  "homepage": "https://github.com/QuarkGluonPlasma/babel-plugin-exercize#readme"
+}
